@@ -1,0 +1,19 @@
+/build
+/dist
+/output
+/releases
+
+/CMakeFiles
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Development Env (Jetbrains, Vim, macOS)
+.idea/
+*.swp
+.DS_store
+
+
+.jpg
+.png
+.bmp
